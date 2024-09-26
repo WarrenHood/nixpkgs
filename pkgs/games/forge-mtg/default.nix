@@ -8,7 +8,7 @@
 }:
 
 let
-  version = "1.6.57";
+  version = "1.6.64";
 
   src = fetchFromGitHub {
     owner = "Card-Forge";
